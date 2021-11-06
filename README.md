@@ -1,2 +1,2 @@
 # notifications
-send sms and mail notification wirth python3
+send sms and mail notification with python3
